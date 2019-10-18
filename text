@@ -1,0 +1,2 @@
+#fingerprint download package
+wget-0-http://apt.pm-codeworks.de.gpg|apt-key add-http://apt.pm-codeworks.de/pm-codework.lists-P/etc/apt/sources.list.d/
